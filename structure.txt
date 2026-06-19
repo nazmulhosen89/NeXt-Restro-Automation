@@ -1,0 +1,113 @@
+﻿Folder PATH listing for volume New Volume
+Volume serial number is 000000D1 00DA:7766
+D:.
+|   LICENSE
+|   qr-restaurant-system.php
+|   README.md
+|   readme.txt
+|   structure.txt
+|   uninstall.php
+|   
++---assets
+|   +---css
+|   |       frontend.css
+|   |       
+|   +---images
+|   |       BkashQR.jpeg
+|   |       default-cat.png
+|   |       foodtruck-sectionbg1.png
+|   |       restaurant.png
+|   |       table-free.png
+|   |       table-occupied.png
+|   |       
+|   +---js
+|   |       app.js
+|   |       
+|   \---sounds
+|           notification 01.mp3
+|           notification_02.wav
+|           notification_03.mp3
+|           
++---includes
+|   |   auth.php
+|   |   database.php
+|   |   helpers.php
+|   |   
+|   +---billing
+|   |       billing-functions.php
+|   |       payment.php
+|   |       
+|   +---kitchen
+|   |       kitchen-display.php
+|   |       kitchen-functions.php
+|   |       
+|   +---menu
+|   |       category-shortcode.php
+|   |       category.php
+|   |       items.php
+|   |       menu-functions.php
+|   |       public-menu-shortcode.php
+|   |       
+|   +---order
+|   |       order-functions.php
+|   |       take-order.php
+|   |       
+|   +---reports
+|   |   |   report-functions.php
+|   |   |   reports.php
+|   |   |   
+|   |   +---handlers
+|   |   |       category-wise-handler.php
+|   |   |       item-wise-handler.php
+|   |   |       kitchen-report-handler.php
+|   |   |       order-report-handler.php
+|   |   |       order-type-handler.php
+|   |   |       payment-tax-handler.php
+|   |   |       sales-handler.php
+|   |   |       staff-report-handler.php
+|   |   |       
+|   |   \---sections
+|   |           kitchen.php
+|   |           orders.php
+|   |           overview.php
+|   |           payment.php
+|   |           sales.php
+|   |           staff.php
+|   |           tax.php
+|   |           
+|   +---restaurant
+|   |       add-staff.php
+|   |       restaurant-create.php
+|   |       restaurant-functions.php
+|   |       tables.php
+|   |       
+|   +---subscriptions
+|   |       subscription-functions.php
+|   |       subscription.php
+|   |       
+|   +---user
+|   |       profile.php
+|   |       
+|   \---waiter
+|           waiter-dashboard.php
+|           waiter-functions.php
+|           
++---languages
+|       qr-restaurant-system.pot
+|       
+\---templates
+    +---dashboard
+    |       dashboard.php
+    |       kitchen.php
+    |       orders.php
+    |       reports.php
+    |       waiter.php
+    |       
+    +---frontend
+    |       login.php
+    |       menu.php
+    |       
+    \---partials
+            footer.php
+            header.php
+            
