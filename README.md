@@ -1,6 +1,6 @@
 # NeXt Restro Solutions
 
-A complete restaurant ERP solution for WordPress.
+A fully AI Powred Multi-Restaurant Automation Solutions with QR Ordering, Inventory, POS, and Subscriptions. A complete Restaurant ERP solution for WordPress.
 
 ## Features
 
